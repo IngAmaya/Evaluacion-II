@@ -1,0 +1,66 @@
+[
+  {
+    "id": 101,
+    "nombre": "Menú Ejecutivo (Pollo)",
+    "precio": 5.50,
+    "stock": 12,
+    "categoria": "Fuerte",
+    "disponible": true
+  },
+  {
+    "id": 102,
+    "nombre": "Pasta Alfredo con Camarones",
+    "precio": 6.25,
+    "stock": 8,
+    "categoria": "Fuerte",
+    "disponible": true
+  },
+  {
+    "id": 103,
+    "nombre": "Lasagna Boloñesa Tradicional",
+    "precio": 5.75,
+    "stock": 5,
+    "categoria": "Fuerte",
+    "disponible": true
+  },
+  {
+    "id": 104,
+    "nombre": "Ensalada César con Pollo Grillé",
+    "precio": 4.25,
+    "stock": 10,
+    "categoria": "Entrada",
+    "disponible": true
+  },
+  {
+    "id": 105,
+    "nombre": "Sopa de Tortilla Artesanal",
+    "precio": 3.50,
+    "stock": 6,
+    "categoria": "Entrada",
+    "disponible": true
+  },
+  {
+    "id": 106,
+    "nombre": "Salmón al Limón con Vegetales",
+    "precio": 9.50,
+    "stock": 2,
+    "categoria": "Especial",
+    "disponible": true
+  },
+  {
+    "id": 107,
+    "nombre": "Cheesecake de Frutos Rojos",
+    "precio": 3.00,
+    "stock": 7,
+    "categoria": "Postre",
+    "disponible": true
+  },
+  {
+    "id": 108,
+    "nombre": "Jugo Natural del Día",
+    "precio": 1.75,
+    "stock": 15,
+    "categoria": "Bebida",
+    "disponible": true
+  }
+]
